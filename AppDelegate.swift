@@ -2,13 +2,12 @@
 //  AppDelegate.swift
 //  FinalProject
 //
-//  Created by Don Julio on 4/8/21.
-//  Copyright © 2021 Don Julio. All rights reserved.
+//  Created by Don Julio on 4/29/21.
 //
 
 import UIKit
 
-@UIApplicationMain
+@main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
